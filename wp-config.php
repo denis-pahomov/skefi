@@ -1,4 +1,5 @@
 <?php
+//test
 error_reporting(0);
 define('WP_CACHE', true);
 
