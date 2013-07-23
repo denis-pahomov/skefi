@@ -1,0 +1,14 @@
+[20-May-2010 10:40:06] PHP Warning:  require_once(/home/kbservic/public_html/wp-admin/includes/admin.php) [<a href='function.require-once'>function.require-once</a>]: failed to open stream: No such file or directory in /home/kbservic/public_html/wp-admin1/admin.php on line 37
+[26-Jul-2012 10:34:36] WordPress database error MySQL server has gone away for query SELECT autoload FROM wp_options WHERE option_name = '_transient_update_plugins' made by Plugin_Upgrader->install, delete_transient, delete_option
+[26-Jul-2012 10:34:57] PHP Fatal error:  Call to undefined function  is_multisite() in /home/kbservic/public_html/wp-content/plugins/wp-maintenance-mode/wp-maintenance-mode.php on line 525
+[26-Jul-2012 10:34:58] PHP Fatal error:  Call to undefined function  is_multisite() in /home/kbservic/public_html/wp-content/plugins/wp-maintenance-mode/wp-maintenance-mode.php on line 120
+[26-Jul-2012 10:35:16] PHP Fatal error:  Call to undefined function  is_multisite() in /home/kbservic/public_html/wp-content/plugins/wp-maintenance-mode/wp-maintenance-mode.php on line 120
+[26-Jul-2012 10:35:19] PHP Fatal error:  Call to undefined function  is_multisite() in /home/kbservic/public_html/wp-content/plugins/wp-maintenance-mode/wp-maintenance-mode.php on line 120
+[26-Jul-2012 10:35:41] PHP Fatal error:  Call to undefined function  is_multisite() in /home/kbservic/public_html/wp-content/plugins/wp-maintenance-mode/wp-maintenance-mode.php on line 120
+[26-Jul-2012 10:46:46] WordPress database error MySQL server has gone away for query SELECT autoload FROM wp_options WHERE option_name = '_transient_update_plugins' made by Plugin_Upgrader->install, delete_transient, delete_option
+[26-Jul-2012 10:47:00] PHP Fatal error:  Call to undefined function  is_multisite() in /home/kbservic/public_html/wp-content/plugins/wp-maintenance-mode/wp-maintenance-mode.php on line 525
+[26-Jul-2012 10:47:58] PHP Fatal error:  Call to undefined function  is_multisite() in /home/kbservic/public_html/wp-content/plugins/wp-maintenance-mode/wp-maintenance-mode.php on line 120
+[26-Jul-2012 10:48:43] PHP Fatal error:  Call to undefined function  is_multisite() in /home/kbservic/public_html/wp-content/plugins/wp-maintenance-mode/wp-maintenance-mode.php on line 120
+[26-Jul-2012 10:50:22] PHP Fatal error:  Call to undefined function  is_multisite() in /home/kbservic/public_html/wp-content/plugins/wp-maintenance-mode/wp-maintenance-mode.php on line 120
+[26-Jul-2012 10:54:11] PHP Fatal error:  Call to undefined function  is_multisite() in /home/kbservic/public_html/wp-content/plugins/wp-maintenance-mode/wp-maintenance-mode.php on line 120
+[26-Jul-2012 10:54:12] PHP Fatal error:  Call to undefined function  is_multisite() in /home/kbservic/public_html/wp-content/plugins/wp-maintenance-mode/wp-maintenance-mode.php on line 120

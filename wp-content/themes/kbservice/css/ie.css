@@ -1,0 +1,10 @@
+.jcarousel-skin-tango .jcarousel-prev-horizontal{
+	background:url('../images/prev_ie.png') no-repeat 0 0!important;
+	left:-65px !important;
+}
+.jcarousel-skin-tango .jcarousel-next-horizontal{
+	background:url('../images/next_ie.png') no-repeat 0 0!important;
+}
+#tbird{
+background:url('../images/bird.png') no-repeat 0 0 !important;
+}

@@ -1,0 +1,1541 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Custom Field - version 3.4.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-10 14:45+0200\n"
+"PO-Revision-Date: 2013-01-10 14:46+0200\n"
+"Last-Translator: bebebe <bebe@gmail.com>\n"
+"Language-Team: RVOLA <hello@rvola.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: French\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: d:\\sources\\apram\\public\\wp-content\\plugins\\advanced-custom-fields\n"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:286
+msgid "Custom Fields"
+msgstr "ACF"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:307
+msgid "Field&nbsp;Groups"
+msgstr "Groupes de champs"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:308
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:234
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/upgrade.php:70
+msgid "Advanced Custom Fields"
+msgstr "Advanced Custom Fields"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:309
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:325
+msgid "Add New"
+msgstr "Ajouter"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:310
+msgid "Add New Field Group"
+msgstr "Nouveau groupe de champs"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:311
+msgid "Edit Field Group"
+msgstr "Modifier le groupe de champs"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:312
+msgid "New Field Group"
+msgstr "Nouveau groupe de champs"
+
+# @ default
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:313
+msgid "View Field Group"
+msgstr "Voir le champ groupe"
+
+# @ default
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:314
+msgid "Search Field Groups"
+msgstr "Rechercher un champ groupe"
+
+# @ default
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:315
+msgid "No Field Groups found"
+msgstr "Aucun champ groupe trouvé"
+
+# @ default
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:316
+msgid "No Field Groups found in Trash"
+msgstr "Aucun champ groupe trouvé dans la corbeille"
+
+# @ default
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:351
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:354
+msgid "Field group updated."
+msgstr "Groupe de champs mis à jour"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:352
+msgid "Custom field updated."
+msgstr "Champ mis à jour"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:353
+msgid "Custom field deleted."
+msgstr "Champ supprimé"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:356
+#, php-format
+msgid "Field group restored to revision from %s"
+msgstr "Groupe de champs restauré à la révision %s"
+
+# @ default
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:357
+msgid "Field group published."
+msgstr "Groupe de champ publié"
+
+# @ default
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:358
+msgid "Field group saved."
+msgstr "Groupe de champ enregistré"
+
+# @ default
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:359
+msgid "Field group submitted."
+msgstr "Groupe de champ enregistré"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:360
+msgid "Field group scheduled for."
+msgstr "Groupe de champs programmé pour."
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:361
+msgid "Field group draft updated."
+msgstr "Brouillon du groupe de champs mis à jour "
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:380
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:66
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:229
+msgid "Title"
+msgstr "Titre"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:623
+msgid "Error: Field Type does not exist!"
+msgstr "Erreur : Ce type de champ n‘existe pas !"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:1710
+msgid "Thumbnail"
+msgstr "Miniature"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:1711
+msgid "Medium"
+msgstr "Moyen"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:1712
+msgid "Large"
+msgstr "Grande"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/acf.php:1713
+msgid "Full"
+msgstr "Taille originale"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/actions/export.php:26
+msgid "No ACF groups selected"
+msgstr "Aucun groupe de champs sélectionné"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_group.php:148
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_group.php:167
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:144
+msgid "Fields"
+msgstr "Champs"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_group.php:149
+msgid "Location"
+msgstr "Assigner ce groupe de champs"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_group.php:150
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_group.php:427
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/options_page.php:62
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/options_page.php:74
+msgid "Options"
+msgstr "Options"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_group.php:355
+msgid "Parent Page"
+msgstr "Page parente"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_group.php:356
+msgid "Child Page"
+msgstr "Page enfant"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_group.php:364
+msgid "Default Template"
+msgstr "Modèle de base"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_group.php:451
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_group.php:472
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_group.php:479
+msgid "All"
+msgstr "Tous"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:197
+msgid "Normal"
+msgstr "Normal"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:198
+msgid "Side"
+msgstr "Sur le côté"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:208
+msgid "Standard Metabox"
+msgstr "Encadré d‘un bloc"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:209
+msgid "No Metabox"
+msgstr "Sans encadrement"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:236
+msgid "Changelog"
+msgstr "Notes de version"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:237
+msgid "See what's new in"
+msgstr "Voir les nouveautés de la version"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:239
+msgid "Resources"
+msgstr "Ressources"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:240
+msgid "Read documentation, learn the functions and find some tips &amp; tricks for your next web project."
+msgstr "Lisez la documentation, étudiez les fonctions et apprenez quelques trucs et astuces pour votre prochain projet."
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:241
+msgid "Visit the ACF website"
+msgstr "Visiter le site ACF"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:246
+msgid "Created by"
+msgstr "Créé par"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:249
+msgid "Vote"
+msgstr "Votez"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/field_groups.php:250
+msgid "Follow"
+msgstr "twitter"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/input.php:528
+msgid "Validation Failed. One or more fields below are required."
+msgstr "Validation échouée. Un ou plusieurs champs sont requis."
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/input.php:529
+msgid "Add File to Field"
+msgstr "+ Ajouter"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/input.php:530
+msgid "Edit File"
+msgstr "Modifier le fichier"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/input.php:531
+msgid "Add Image to Field"
+msgstr "Ajouter une image"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/input.php:532
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/input.php:535
+msgid "Edit Image"
+msgstr "Modifier l‘image"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/input.php:533
+msgid "Maximum values reached ( {max} values )"
+msgstr "Nombre maximal de valeurs atteint ({max} valeurs)"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/input.php:534
+msgid "Add Image to Gallery"
+msgstr "Insérer une image dans la galerie"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/input.php:625
+msgid "Attachment updated"
+msgstr "Fichier mis à jour"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/options_page.php:121
+msgid "Options Updated"
+msgstr "Options mises à jour"
+
+# @ default
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/options_page.php:251
+msgid "No Custom Field Group found for the options page"
+msgstr "Aucun groupe de champs n‘est assigné à la page Options"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/options_page.php:251
+msgid "Create a Custom Field Group"
+msgstr "Créer un nouveau groupe de champs"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/options_page.php:262
+msgid "Publish"
+msgstr "Publier"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/options_page.php:265
+msgid "Save Options"
+msgstr "Enregistrer les options"
+
+# @ wp3i
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:49
+msgid "Settings"
+msgstr "Paramètres"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:111
+msgid "Repeater field deactivated"
+msgstr "L‘add-on 'Champ répétable' a été désactivé"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:115
+msgid "Options page deactivated"
+msgstr "L‘add-on 'Page d'options' a été désactivé"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:119
+msgid "Flexible Content field deactivated"
+msgstr "L‘add-on 'Contenu flexible' a été désactivé"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:123
+msgid "Gallery field deactivated"
+msgstr "Champ 'galerie' désactivé"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:147
+msgid "Repeater field activated"
+msgstr "L‘add-on 'Champ répétable' a été activé"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:151
+msgid "Options page activated"
+msgstr "L‘add-on 'Page d'options' a été activé"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:155
+msgid "Flexible Content field activated"
+msgstr "L‘add-on 'Contenu flexible' a été activé"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:159
+msgid "Gallery field activated"
+msgstr "Champ 'Galerie' activé"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:164
+msgid "License key unrecognised"
+msgstr "Clé de licence non reconnue"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:216
+msgid "Activate Add-ons."
+msgstr "Activation des add-ons"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:217
+msgid "Add-ons can be unlocked by purchasing a license key. Each key can be used on multiple sites."
+msgstr "Les add-ons peuvent d‘être déverrouillés via l'achat d'une clé de licence. Chaque clé peut être utilisée sur plusieurs sites."
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:218
+msgid "Find Add-ons"
+msgstr "Trouvez des add-ons"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:225
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:380
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:456
+msgid "Field Type"
+msgstr "Type de champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:226
+msgid "Status"
+msgstr "Status"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:227
+msgid "Activation Code"
+msgstr "Code d‘activation"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:232
+msgid "Repeater Field"
+msgstr "Champs répéteur"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:233
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:252
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:271
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:290
+msgid "Active"
+msgstr "Actif"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:233
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:252
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:271
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:290
+msgid "Inactive"
+msgstr "Inactif"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:239
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:258
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:277
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:296
+msgid "Deactivate"
+msgstr "Désactiver"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:245
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:264
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:283
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:302
+msgid "Activate"
+msgstr "Activer"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:251
+msgid "Flexible Content Field"
+msgstr "Champs au contenu flexible "
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:270
+msgid "Gallery Field"
+msgstr "Champ galerie"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:289
+msgid "Options Page"
+msgstr "Page d‘options"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:314
+msgid "Export Field Groups to XML"
+msgstr "Exportez des groupes de champs en XML"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:315
+msgid "ACF will create a .xml export file which is compatible with the native WP import plugin."
+msgstr "ACF générera un fichier d‘export .xml compatible avec le plugin d'import natif de WordPress."
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:316
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:355
+msgid "Instructions"
+msgstr "Instructions"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:318
+msgid "Import Field Groups"
+msgstr "Importez des groupes de champs"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:319
+msgid "Imported field groups <b>will</b> appear in the list of editable field groups. This is useful for migrating fields groups between Wp websites."
+msgstr "Les groupes de champs importés <b>apparaitront</b> dans ACF. Utile pour migrer les groupes de champs entre plusieurs site Wordpress."
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:321
+msgid "Select field group(s) from the list and click \"Export XML\""
+msgstr "Sélectionnez les groupes de champs dans la liste et cliquez sur \"Exporter XML\""
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:322
+msgid "Save the .xml file when prompted"
+msgstr "Enregistrer le .xml"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:323
+msgid "Navigate to Tools &raquo; Import and select WordPress"
+msgstr "Allez dans \"Outils &raquo; Importer\" et sélectionnez WordPress"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:324
+msgid "Install WP import plugin if prompted"
+msgstr "Installez le plugin d‘import WordPress si demandé"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:325
+msgid "Upload and import your exported .xml file"
+msgstr "Importez votre fichier .xml "
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:326
+msgid "Select your user and ignore Import Attachments"
+msgstr "Sélectionnez votre utilisateur et ignorez l‘import des pièces jointes"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:327
+msgid "That's it! Happy WordPressing"
+msgstr "C‘est tout ! WordPressez bien"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:346
+msgid "Export XML"
+msgstr "Export XML"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:353
+msgid "Export Field Groups to PHP"
+msgstr "Exportez des groupes de champs en PHP"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:354
+msgid "ACF will create the PHP code to include in your theme."
+msgstr "ACF générera le code PHP à inclure dans votre thème"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:357
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:474
+msgid "Register Field Groups"
+msgstr "Inscrivez des groupes de champs via PHP"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:358
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:475
+msgid "Registered field groups <b>will not</b> appear in the list of editable field groups. This is useful for including fields in themes."
+msgstr "Les groupes de champs enregistrés <b>n‘apparaitront pas</b> dans ACF. Cette manipulation sert à insérer les champs en PHP directement dans le thème."
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:359
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:476
+msgid "Please note that if you export and register field groups within the same WP, you will see duplicate fields on your edit screens. To fix this, please move the origional field group to the trash or remove the code from your functions.php file."
+msgstr "Si vous exportez ET inscrivez les groupes dans la même installation WP, vous verrez les champs en double dans votre page d‘édition. Pour éviter cela, supprimer le groupe depuis ACF ou retirez le code PHP de functions.php."
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:361
+msgid "Select field group(s) from the list and click \"Create PHP\""
+msgstr "Sélectionnez les groupes de champs dans la liste et cliquez sur \"Générer PHP\""
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:362
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:478
+msgid "Copy the PHP code generated"
+msgstr "Copiez le code PHP généré"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:363
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:479
+msgid "Paste into your functions.php file"
+msgstr "Collez le code dans votre fichier functions.php"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:364
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:480
+msgid "To activate any Add-ons, edit and use the code in the first few lines."
+msgstr "Pour activer un add-on, éditez le code dans les toutes premières lignes."
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:469
+msgid "Back to settings"
+msgstr "Retour vers les réglages"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:504
+msgid ""
+"/**\n"
+" * Activate Add-ons\n"
+" * Here you can enter your activation codes to unlock Add-ons to use in your theme. \n"
+" * Since all activation codes are multi-site licenses, you are allowed to include your key in premium themes. \n"
+" * Use the commented out code to update the database with your activation code. \n"
+" * You may place this code inside an IF statement that only runs on theme activation.\n"
+" */"
+msgstr ""
+"/**\n"
+" * Activez les add-ons\n"
+" * A cet endroit vous pouvez saisir vos codes d‘activation pour déverrouiller les add-ons que vous souhaitez utiliser dans votre thème. \n"
+" * Puisque tous les codes d'activation sont des licences multi-sites, vous êtes autorisé à inclure votre clé dans des thèmes pretium. \n"
+" * Utilisez la partie de code commentée pour mettre à jour la base de données avec vos codes d'activation. \n"
+" * Vous pouvez placer ce code dans une déclaration IF vraie uniquement lors de l'activation du thème.\n"
+" */"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:519
+msgid ""
+"/**\n"
+" * Register field groups\n"
+" * The register_field_group function accepts 1 array which holds the relevant data to register a field group\n"
+" * You may edit the array as you see fit. However, this may result in errors if the array is not compatible with ACF\n"
+" * This code must run every time the functions.php file is read\n"
+" */"
+msgstr ""
+"/**\n"
+" * Enregistrez des groupes de champs\n"
+" * La fonction register_field_group accepte 1 tableau qui contient les données nécessaire à l‘enregistrement d'un groupe de champs\n"
+" * Vous pouvez modifier ce tableau selon vos besoins. Cela peut toutefois provoquer des erreurs dans les cas où le tableau ne serait plus compatible avec ACF\n"
+" * Ce code doit être traité à chaque accès au fichier functions.php\n"
+" */"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:558
+msgid "No field groups were selected"
+msgstr "Aucun groupe de champs n‘a été sélectionné"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/settings.php:608
+msgid "Advanced Custom Fields Settings"
+msgstr "Réglages Advanced Custom Fields"
+
+# @ wp3i
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/upgrade.php:51
+msgid "Upgrade"
+msgstr "Mettre à jour"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/upgrade.php:70
+msgid "requires a database upgrade"
+msgstr "nécessite une mise à jour de la base de données"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/upgrade.php:70
+msgid "why?"
+msgstr "Pourquoi ?"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/upgrade.php:70
+msgid "Please"
+msgstr "S‘il vous plait"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/upgrade.php:70
+msgid "backup your database"
+msgstr "Sauvegarder la base de données"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/upgrade.php:70
+msgid "then click"
+msgstr "puis cliquer"
+
+# @ wp3i
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/upgrade.php:70
+msgid "Upgrade Database"
+msgstr "Mettre à jour la base de données"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/upgrade.php:604
+msgid "Modifying field group options 'show on page'"
+msgstr "Modification du groupe de champs 'montrer sur la page'"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/upgrade.php:658
+msgid "Modifying field option 'taxonomy'"
+msgstr "Modifier le champ 'taxinomie'"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/controllers/upgrade.php:755
+msgid "Moving user custom fields from wp_options to wp_usermeta'"
+msgstr "Déplacer les champs personnalisés des utilisateurs de wp_options à wp_usermeta '"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/checkbox.php:21
+msgid "Checkbox"
+msgstr "Case à cocher"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/checkbox.php:55
+msgid "No choices to choose from"
+msgstr "Aucun choix n‘est disponible"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/checkbox.php:113
+msgid "Choices"
+msgstr "Choix"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/checkbox.php:114
+msgid "Enter your choices one per line"
+msgstr "Indiquez une valeur par ligne"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/checkbox.php:116
+msgid "Red"
+msgstr "Rouge"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/checkbox.php:117
+msgid "Blue"
+msgstr "Bleu"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/checkbox.php:119
+msgid "red : Red"
+msgstr "rouge : Rouge"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/checkbox.php:120
+msgid "blue : Blue"
+msgstr "bleu : Bleu"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/color_picker.php:21
+msgid "Color Picker"
+msgstr "Sélectionneur de couleur"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/color_picker.php:92
+msgid "Default Value"
+msgstr "Valeur par défaut"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/color_picker.php:93
+msgid "eg: #ffffff"
+msgstr ""
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:21
+msgid "File"
+msgstr "Fichier"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:49
+msgid "File Updated."
+msgstr "Fichier mis à jour."
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:90
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:407
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:251
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:281
+msgid "Edit"
+msgstr "Modifier"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:91
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:250
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:280
+msgid "Remove"
+msgstr "Retirer"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:196
+msgid "No File Selected"
+msgstr "Aucun fichier sélectionné"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:196
+msgid "Add File"
+msgstr "Ajouter un fichier"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:229
+msgid "Return Value"
+msgstr "Retourne une valeur"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:239
+msgid "File Object"
+msgstr "File Objet"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:240
+msgid "File URL"
+msgstr "URL du fichier"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:241
+msgid "File ID"
+msgstr "File ID"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:273
+msgid "Media attachment updated."
+msgstr "Fichier mis à jour"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:407
+msgid "No files selected"
+msgstr "Aucun fichier sélectionné"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:502
+msgid "Add Selected Files"
+msgstr "Ajouter les fichiers sélectionnés"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:532
+msgid "Select File"
+msgstr "Sélectionner un fichier"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/file.php:535
+msgid "Update File"
+msgstr "Mettre à jour le fichier"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:21
+msgid "Flexible Content"
+msgstr "Contenu flexible"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:38
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:286
+msgid "+ Add Row"
+msgstr "+ Ajouter"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:313
+msgid "New Field"
+msgstr "Nouveau champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:322
+msgid "Layout"
+msgstr "Disposition"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:324
+msgid "Reorder Layout"
+msgstr "Réordonner la disposition"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:324
+msgid "Reorder"
+msgstr "Réordonner"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:325
+msgid "Add New Layout"
+msgstr "Nouvelle disposition"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:326
+msgid "Delete Layout"
+msgstr "Supprimer disposition"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:326
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:410
+msgid "Delete"
+msgstr "Supprimer"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:336
+msgid "Label"
+msgstr "Label"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:346
+msgid "Name"
+msgstr "Nom"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:356
+msgid "Display"
+msgstr "Affichage"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:363
+msgid "Table"
+msgstr "En colonnes"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:364
+msgid "Row"
+msgstr "Les uns sous les autres"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:377
+msgid "Field Order"
+msgstr "Position du champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:378
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:425
+msgid "Field Label"
+msgstr "Titre du champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:379
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:441
+msgid "Field Name"
+msgstr "Nom du champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:388
+msgid "No fields. Click the \"+ Add Sub Field button\" to create your first field."
+msgstr "Aucun champ. Cliquez sur \"+ Ajouter\"  pour créer un premier champ."
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:404
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:407
+msgid "Edit this Field"
+msgstr "Modifier ce champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:408
+msgid "Read documentation for this field"
+msgstr "Lire la documentation de ce champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:408
+msgid "Docs"
+msgstr "Documentation"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:409
+msgid "Duplicate this Field"
+msgstr "Dupliquer ce champ"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:409
+msgid "Duplicate"
+msgstr "Dupliquer"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:410
+msgid "Delete this Field"
+msgstr "Supprimer ce champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:426
+msgid "This is the name which will appear on the EDIT page"
+msgstr "Ce nom apparaîtra sur la page d‘édition"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:442
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr "Un seul mot sans espace.<br />Les '_' et '-' sont autorisés"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:476
+msgid "Save Field"
+msgstr "Enregistrer le champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:481
+msgid "Close Field"
+msgstr "Fermer le champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:481
+msgid "Close Sub Field"
+msgstr "Fermer le sous-champs"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:495
+msgid "Drag and drop to reorder"
+msgstr "Faites glisser pour réorganiser"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:496
+msgid "+ Add Sub Field"
+msgstr "+ Ajouter"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/flexible_content.php:503
+msgid "Button Label"
+msgstr "Libellé du bouton"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:25
+msgid "Gallery"
+msgstr "Galerie"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:70
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:233
+msgid "Alternate Text"
+msgstr "Texte alternatif"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:74
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:237
+msgid "Caption"
+msgstr "Légende"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:78
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:241
+msgid "Description"
+msgstr "Description"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:117
+msgid "Preview Size"
+msgstr "Taille de prévisualisation"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:118
+msgid "Thumbnail is advised"
+msgstr "Une miniature est conseillée"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:179
+msgid "Image Updated"
+msgstr "Image mise à jour"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:262
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:669
+msgid "Add Image"
+msgstr "Ajouter une image"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:263
+msgid "Grid"
+msgstr "Grille"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:264
+msgid "List"
+msgstr "Liste"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:266
+msgid "No images selected"
+msgstr "Aucune image sélectionnée"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:266
+msgid "1 image selected"
+msgstr "1 image sélectionnée"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:266
+msgid "{count} images selected"
+msgstr "{count} images sélectionnées"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:591
+msgid "Added"
+msgstr "Ajouter"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:611
+msgid "Image already exists in gallery"
+msgstr "L‘image existe déjà dans la galerie"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:617
+msgid "Image Added"
+msgstr "Image ajoutée"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/gallery.php:672
+msgid "Update Image"
+msgstr "Mettre à jour"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/image.php:21
+msgid "Image"
+msgstr "Image"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/image.php:49
+msgid "Image Updated."
+msgstr "Image mise à jour."
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/image.php:193
+msgid "No image selected"
+msgstr "Aucune image sélectionnée"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/image.php:233
+msgid "Image Object"
+msgstr "Objet 'image'"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/image.php:234
+msgid "Image URL"
+msgstr "URL de l‘image"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/image.php:235
+msgid "Image ID"
+msgstr "ID de l‘image"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/image.php:525
+msgid "Add selected Images"
+msgstr "Ajouter les images sélectionnées"
+
+# acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/image.php:554
+msgid "Select Image"
+msgstr "Sélectionner l‘image"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/number.php:21
+msgid "Number"
+msgstr "Nombre"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/page_link.php:21
+msgid "Page Link"
+msgstr "Lien vers page ou article"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/page_link.php:70
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/post_object.php:217
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/relationship.php:386
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:48
+msgid "Post Type"
+msgstr "Type d‘article"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/page_link.php:98
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/post_object.php:268
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/select.php:204
+msgid "Allow Null?"
+msgstr "Autoriser vide ?"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/page_link.php:107
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/page_link.php:126
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/post_object.php:277
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/post_object.php:296
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/select.php:213
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/select.php:232
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/wysiwyg.php:124
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/wysiwyg.php:145
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_fields.php:172
+msgid "Yes"
+msgstr "Oui"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/page_link.php:108
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/page_link.php:127
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/post_object.php:278
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/post_object.php:297
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/select.php:214
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/select.php:233
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/wysiwyg.php:125
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/wysiwyg.php:146
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_fields.php:173
+msgid "No"
+msgstr "Non"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/page_link.php:117
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/post_object.php:287
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/select.php:223
+msgid "Select multiple values?"
+msgstr "Plusieurs valeurs possibles ?"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/post_object.php:21
+msgid "Post Object"
+msgstr "Objet 'article'"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/post_object.php:245
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/relationship.php:415
+msgid "Filter from Taxonomy"
+msgstr "Filtrer par taxonomie"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/radio.php:21
+msgid "Radio Button"
+msgstr "Bouton radio"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/radio.php:154
+msgid "Vertical"
+msgstr "Vertical"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/radio.php:155
+msgid "Horizontal"
+msgstr "Horizontal"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/relationship.php:21
+msgid "Relationship"
+msgstr "Relation"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/relationship.php:288
+msgid "Search"
+msgstr "Rechercher"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/relationship.php:438
+msgid "Maximum posts"
+msgstr "Nombre max d‘articles"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/repeater.php:21
+msgid "Repeater"
+msgstr "Répéteur"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/repeater.php:66
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/repeater.php:289
+msgid "Add Row"
+msgstr "+ Ajouter un rang"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/repeater.php:319
+msgid "Repeater Fields"
+msgstr "Champs répéteurs"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/repeater.php:420
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_fields.php:151
+msgid "Field Instructions"
+msgstr "Instructions pour ce champ"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/repeater.php:440
+msgid "Column Width"
+msgstr "Largeur colonne"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/repeater.php:441
+msgid "Leave blank for auto"
+msgstr "Laissez vide pour auto"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/repeater.php:495
+msgid "Minimum Rows"
+msgstr "Nombre minimum d‘ajouts"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/repeater.php:509
+msgid "Maximum Rows"
+msgstr "Nombre maximum d‘ajouts"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/repeater.php:533
+msgid "Table (default)"
+msgstr "En colonnes (par défaut)"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/select.php:21
+msgid "Select"
+msgstr "Sélectionner"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/select.php:78
+msgid "- Select -"
+msgstr "- Sélectionner -"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/text.php:21
+msgid "Text"
+msgstr "Texte"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/text.php:79
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/textarea.php:76
+msgid "Formatting"
+msgstr "Formatage  "
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/text.php:80
+msgid "Define how to render html tags"
+msgstr "Définition du rendu des balises html"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/text.php:89
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/textarea.php:86
+msgid "None"
+msgstr "Aucun"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/text.php:90
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/textarea.php:88
+msgid "HTML"
+msgstr "HTML"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/textarea.php:21
+msgid "Text Area"
+msgstr "Zone de texte"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/textarea.php:77
+msgid "Define how to render html tags / new lines"
+msgstr "Définition du rendu des balises html et des nouvelles lignes"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/textarea.php:87
+msgid "auto &lt;br /&gt;"
+msgstr "auto &lt;br /&gt;"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/true_false.php:21
+msgid "True / False"
+msgstr "Vrai / Faux"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/true_false.php:68
+msgid "Message"
+msgstr "Message"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/true_false.php:69
+msgid "eg. Show extra content"
+msgstr "ex : Montrer du contenu supplémentaire"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/wysiwyg.php:21
+msgid "Wysiwyg Editor"
+msgstr "Editeur WYSIWYG"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/wysiwyg.php:95
+msgid "Toolbar"
+msgstr "Barre d‘outils"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/wysiwyg.php:106
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:47
+msgid "Basic"
+msgstr "Basique"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/wysiwyg.php:114
+msgid "Show Media Upload Buttons?"
+msgstr "Afficher les boutons d‘ajout de médias ?"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/wysiwyg.php:133
+msgid "Run filter \"the_content\"?"
+msgstr "Exécuter filtre \"the_content\"?"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/wysiwyg.php:134
+msgid "Enable this filter to use shortcodes within the WYSIWYG field"
+msgstr "Activer ce filtre pour utiliser les shortcodes dans le champ WYSIWYG"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/wysiwyg.php:135
+msgid "Disable this filter if you encounter recursive template problems with plugins / themes"
+msgstr "Désactivez ce filtre si vous rencontrez des problèmes de modèles récursifs avec les plugins / thèmes"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/date_picker/date_picker.php:21
+msgid "Date Picker"
+msgstr "Date"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/date_picker/date_picker.php:106
+msgid "Save format"
+msgstr "Sauvegarder format"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/date_picker/date_picker.php:107
+msgid "This format will determin the value saved to the database and returned via the API"
+msgstr "Ce format sera détermine la valeur enregistrée dans la base de données et retournée par l‘API"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/date_picker/date_picker.php:108
+msgid "\"yymmdd\" is the most versatile save format. Read more about"
+msgstr "\"yymmdd\" est le format d‘enregistrement le plus polyvalent. En savoir plus sur"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/date_picker/date_picker.php:108
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/date_picker/date_picker.php:118
+msgid "jQuery date formats"
+msgstr "Format date jQuery"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/date_picker/date_picker.php:116
+msgid "Display format"
+msgstr "Format d‘affichage"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/date_picker/date_picker.php:117
+msgid "This format will be seen by the user when entering a value"
+msgstr "Ce format sera vu par l‘utilisateur lors de la saisie d‘une valeur"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/fields/date_picker/date_picker.php:118
+msgid "\"dd/mm/yy\" or \"mm/dd/yy\" are the most used display formats. Read more about"
+msgstr "\"dd/mm/yy\" ou \"mm/dd/yy\"  sont les formats d‘affichage les plus utilisées. En savoir plus sur"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_fields.php:26
+msgid "new_field"
+msgstr "nouveau_champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_fields.php:47
+msgid "Move to trash. Are you sure?"
+msgstr "Mettre à la corbeille. Etes-vous sûr ?"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_fields.php:64
+msgid "Field Key"
+msgstr "Clé du champ"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_fields.php:74
+msgid "No fields. Click the <strong>+ Add Field</strong> button to create your first field."
+msgstr "Aucun champ. Cliquez sur le bouton <strong>+ Ajouter</strong> pour créer votre premier champ."
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_fields.php:152
+msgid "Instructions for authors. Shown when submitting data"
+msgstr "Instructions pour les auteurs. Affichées lors de la soumission de données."
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_fields.php:164
+msgid "Required?"
+msgstr "Requis ?"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_fields.php:204
+msgid "+ Add Field"
+msgstr "+ Ajouter"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:35
+msgid "Rules"
+msgstr "Règles"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:36
+msgid "Create a set of rules to determine which edit screens will use these advanced custom fields"
+msgstr "Créez une série de règles pour déterminer sur quelles pages d‘édition ce groupe de champs sera utilisé"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:49
+msgid "Logged in User Type"
+msgstr "Rôle de l‘utilisateur"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:51
+msgid "Page Specific"
+msgstr "Pages"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:52
+msgid "Page"
+msgstr "Page"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:53
+msgid "Page Type"
+msgstr "Type de page"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:54
+msgid "Page Parent"
+msgstr "Page parente"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:55
+msgid "Page Template"
+msgstr "Modèle de page"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:57
+msgid "Post Specific"
+msgstr "Articles (posts)"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:58
+msgid "Post"
+msgstr "Article"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:59
+msgid "Post Category"
+msgstr "Type d‘articles"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:60
+msgid "Post Format"
+msgstr "Format d‘article"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:61
+msgid "Post Taxonomy"
+msgstr "Taxonimie"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:63
+msgid "Other"
+msgstr "Autres"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:64
+msgid "Taxonomy (Add / Edit)"
+msgstr "Taxinomie (Ajouter / Modifier)"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:65
+msgid "User (Add / Edit)"
+msgstr "Utilisateur (Ajouter / Modifier)"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:66
+msgid "Media (Edit)"
+msgstr "Média (Modifier)"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:96
+msgid "is equal to"
+msgstr "est égal à"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:97
+msgid "is not equal to"
+msgstr "n‘est pas égal à"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:121
+msgid "match"
+msgstr "Ce groupe de champs apparaitra si :"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:127
+msgid "all"
+msgstr "toutes les règles sont respectées"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:128
+msgid "any"
+msgstr "au moins une règle est respectée"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:131
+msgid "of the above"
+msgstr " "
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_location.php:144
+msgid "Unlock options add-on with an activation code"
+msgstr "Déverrouiller l‘add-on 'Options' avec un code d'activation"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:23
+msgid "Order No."
+msgstr "Numéro d‘ordre"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:24
+msgid "Field groups are created in order <br />from lowest to highest"
+msgstr "Les groupes de champs sont créés dans <br/> ordre du plus bas vers le plus haut"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:40
+msgid "Position"
+msgstr "Position"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:60
+msgid "Style"
+msgstr "Style"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:80
+msgid "Hide on screen"
+msgstr "Ne pas afficher"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:81
+msgid "<b>Select</b> items to <b>hide</b> them from the edit screen"
+msgstr "<b>Décochez</b> les champs que vous souhaitez <b>masquer</b> sur la page d‘édition"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:82
+msgid "If multiple field groups appear on an edit screen, the first field group's options will be used. (the one with the lowest order number)"
+msgstr "Si plusieurs groupes ACF sont présents sur une page d‘édition, le groupe portant le numéro le plus bas sera affiché en premier."
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:92
+msgid "Content Editor"
+msgstr "La zone d‘édition principale"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:93
+msgid "Excerpt"
+msgstr "Le résumé (excerpt)"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:95
+msgid "Discussion"
+msgstr "Discussion"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:96
+msgid "Comments"
+msgstr "Les commentaires"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:97
+msgid "Revisions"
+msgstr ""
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:98
+msgid "Slug"
+msgstr "Identifiant (slug)"
+
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:99
+msgid "Author"
+msgstr "Auteur"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:100
+msgid "Format"
+msgstr "Format"
+
+# @ acf
+#: d:\sources\apram\public\wp-content\plugins\advanced-custom-fields/core/views/meta_box_options.php:101
+msgid "Featured Image"
+msgstr "Image à la Une"
+
