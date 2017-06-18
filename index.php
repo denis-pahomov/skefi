@@ -7,7 +7,7 @@
  */
 
 /**
- * Tells WordPress to load the WordPress theme and output it. test
+ * Tells WordPress to load the WordPress theme and output it. tes
  *
  * @var bool
  */
